@@ -217,4 +217,4 @@ Game Maker is available as a complete free version with all features and updates
 Ready to embark on your game development journey? Download Game Maker now and start creating your own games today!
 
 ---
-**Last updated:** 2026-11-07 08:20:18 UTC
+**Last updated:** 2026-11-07 15:24:52 UTC
